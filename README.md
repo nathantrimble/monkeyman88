@@ -1,2 +1,2 @@
 # test_webpage
-http://github.com/nathantrimble/monkeyman88
+http://nathantrimble.github.io/monkeyman88
